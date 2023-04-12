@@ -19,7 +19,7 @@
 			"name": "character-actions-list-5e",
 			"type": "module",
 			"versionMin": "1.0.0",
-			"manifest": "https://github.com/kckoch/foundryvtt-dnd5eCharacterActions/releases/latest/download/module.json"
+			"manifest": "https://github.com/ElfFriend-DnD/foundryvtt-dnd5eCharacterActions/releases/latest/download/module.json"
 		}
 	],
 	"esmodules": [
@@ -38,23 +38,23 @@
 	"media": [
 		{
 			"type": "cover",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/readme-img/cover-image.png"
+			"link": "https://raw.githubusercontent.com/kckoch/foundryvtt-5eOGLCharacterSheet/master/readme-img/cover-image.png"
 		},
 		{
 			"type": "screenshot",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/readme-img/main-top.png"
+			"link": "https://raw.githubusercontent.com/kckoch/foundryvtt-5eOGLCharacterSheet/master/readme-img/main-top.png"
 		},
 		{
 			"type": "screenshot",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/readme-img/main-bottom.png"
+			"link": "https://raw.githubusercontent.com/kckochD/foundryvtt-5eOGLCharacterSheet/master/readme-img/main-bottom.png"
 		},
 		{
 			"type": "screenshot",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/readme-img/spellbook.png"
+			"link": "https://raw.githubusercontent.com/kckoch/foundryvtt-5eOGLCharacterSheet/master/readme-img/spellbook.png"
 		},
 		{
 			"type": "screenshot",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/readme-img/biography.png"
+			"link": "https://raw.githubusercontent.com/kckoch/foundryvtt-5eOGLCharacterSheet/master/readme-img/biography.png"
 		}
 	],
 	"relationships": {
@@ -74,12 +74,12 @@
 		"verified": 10,
 		"maximum": 10
 	},
-	"bugs": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/issues",
-	"changelog": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/releases",
-	"download": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/releases/download/v0.14.1/module.zip",
-	"manifest": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/releases/latest/download/module.json",
-	"readme": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/README.md",
-	"url": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet",
+	"bugs": "https://github.com/kckoch/foundryvtt-5eOGLCharacterSheet/issues",
+	"changelog": "https://github.com/kckoch/foundryvtt-5eOGLCharacterSheet/releases",
+	"download": "https://github.com/kckoch/foundryvtt-5eOGLCharacterSheet/releases/download/v0.14.1/module.zip",
+	"manifest": "https://github.com/kckoch/foundryvtt-5eOGLCharacterSheet/releases/latest/download/module.json",
+	"readme": "https://raw.githubusercontent.com/kckoch/foundryvtt-5eOGLCharacterSheet/master/README.md",
+	"url": "https://github.com/kckoch/foundryvtt-5eOGLCharacterSheet",
 	"flags": {
 		"allowBugReporter": true
 	},
