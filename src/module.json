@@ -5,13 +5,13 @@
 	"description": "A character sheet resembling a classic Pencil and Paper or Roll20 sheet.",
 	"system": ["dnd5e"],
 	"version": "0.14.1",
-	"author": "Andrew Krigline (akrigline)",
+	"author": "Kyra Koch",
 	"authors": [
 		{
-			"name": "Andrew Krigline",
-			"discord": "Calego#0914",
-			"url": "https://github.com/ElfFriend-DnD",
-			"patreon": "https://www.patreon.com/ElfFriend_DnD"
+			"name": "Kyra Koch",
+			"discord": "kaybird#4269",
+			"url": "https://github.com/kckoch",
+			"patreon": ""
 		}
 	],
 	"dependencies": [
@@ -19,7 +19,7 @@
 			"name": "character-actions-list-5e",
 			"type": "module",
 			"versionMin": "1.0.0",
-			"manifest": "https://github.com/ElfFriend-DnD/foundryvtt-dnd5eCharacterActions/releases/latest/download/module.json"
+			"manifest": "https://github.com/kckoch/foundryvtt-dnd5eCharacterActions/releases/latest/download/module.json"
 		}
 	],
 	"esmodules": [
