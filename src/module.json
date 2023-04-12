@@ -76,7 +76,7 @@
 	},
 	"bugs": "https://github.com/kckoch/foundryvtt-5eOGLCharacterSheet/issues",
 	"changelog": "https://github.com/kckoch/foundryvtt-5eOGLCharacterSheet/releases",
-	"download": "https://github.com/kckoch/foundryvtt-5eOGLCharacterSheet/releases/download/v0.14.1/module.zip",
+	"download": "https://github.com/kckoch/foundryvtt-5eOGLCharacterSheet/releases/latest/download/module.zip",
 	"manifest": "https://github.com/kckoch/foundryvtt-5eOGLCharacterSheet/releases/latest/download/module.json",
 	"readme": "https://raw.githubusercontent.com/kckoch/foundryvtt-5eOGLCharacterSheet/master/README.md",
 	"url": "https://github.com/kckoch/foundryvtt-5eOGLCharacterSheet",
